@@ -34,6 +34,7 @@ communicating with Mojang. Furthermore, this project is used for experimenting w
 * Java 8+
 * Gson (2.2.4+)
 * Guava (10.0.1+)
+* Git
 
 ## Contribution
 
