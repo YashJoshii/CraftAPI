@@ -34,6 +34,7 @@ communicating with Mojang. Furthermore, this project is used for experimenting w
 * Java 8+
 * Gson (2.2.4+)
 * Guava (10.0.1+)
+* Git
 
 ## Contribution
 
@@ -76,3 +77,5 @@ Inspired by
 * [Mojang Authlib](https://github.com/Techcable/Authlib)
 * [Mojang AccountsClient](https://github.com/JonMcPherson/AccountsClient/)
 * [API proxy Interceptor](https://github.com/Shevchik/MojangAPIProxy)
+
+## Yo
